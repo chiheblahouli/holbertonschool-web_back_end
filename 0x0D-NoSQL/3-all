@@ -1,0 +1,3 @@
+// fetch all data
+//use my_db
+db.school.find()
